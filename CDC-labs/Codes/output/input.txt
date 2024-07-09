@@ -1,0 +1,5 @@
+- a b r1
++ c d r2
+* r1 r2 r3
++ r3 r4 y
+= y r
